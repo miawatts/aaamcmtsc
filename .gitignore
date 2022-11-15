@@ -14,3 +14,7 @@ vendor/
 
 # temporarily ignore gemfile.lock
 Gemfile.lock
+objects/demo_001.jpg
+objects/demo_002.pdf
+objects/demo_003.mp3
+objects/demo_004.jpg
