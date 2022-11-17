@@ -8,20 +8,11 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+## About the AAAMC 
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+The Archives of African American Music and Culture (AAAMC) was established in 1991 by esteemed ethnomusicologist and former Indiana University faculty member, Dr. Portia Maultsby. The AAAMC is an archival repository of materials that covers a range of African American musical idioms and cultural expressions from the post-World War II era. 
 
-## About the Collection
+The AAAMC supports the research of scholars, students, and general public by providing access to various holdings which include oral histories, musical and print manuscripts, photographs, audio and video recordings, and the personal papers of individuals and organizations pertaining to Black music.
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+To learn more about their collections, visit the [AAAMC Website](https://aaamc.indiana.edu)
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
