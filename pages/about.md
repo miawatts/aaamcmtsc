@@ -16,3 +16,9 @@ The AAAMC supports the research of scholars, students, and general public by pro
 
 To learn more about their collections, visit the [AAAMC Website](https://aaamc.indiana.edu)
 
+--- 
+
+## About Me 
+
+Mia Watts is a 3rd year MLS student with dual specializations in Music Librarianship and Archives and Records Management at Indiana University. She is currently employed as a Graduate Assistant at the AAAMC. 
+
