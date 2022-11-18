@@ -1,11 +1,10 @@
 display_name,stub,dropdown_parent
-Home,/
-About the AAAMC,/about.html
-Mickey Tucker, /mickeytucker.html
-Spiritual Collage, /spiritualcollage.html
-Browse,/browse.html
-Subjects,/subjects.html
-Locations,/locations.html
-Timeline,/timeline.html
-Data,/data.html
-
+Home,/,
+About the AAAMC,/about.html,
+Mickey Tucker, /mickey-tucker.html,
+Spiritual Collage, /spiritual-collage.html,
+Browse,/browse.html,
+Subjects,/subjects.html,
+Locations,/locations.html,
+Timeline,/timeline.html,
+Data,/data.html,
