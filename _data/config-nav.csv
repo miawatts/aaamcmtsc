@@ -2,7 +2,10 @@ display_name,stub,dropdown_parent
 Home,/,
 About the AAAMC,/about.html,
 Mickey Tucker,/mickey-tucker.html,
-Spiritual Collage,/spiritual-collage.html,
+Spiritual Collage,,
+The Story ,/the-story.html,Spiritual Collage
+The Making Of,/making-of.html,Spiritual Collage
+Premiere Weekend,/premiere-weekend.html,Spiritual Collage
 Browse,/browse.html,
 Subjects,/subjects.html,
 Locations,/locations.html,
