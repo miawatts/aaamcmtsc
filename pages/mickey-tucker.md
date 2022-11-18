@@ -1,7 +1,7 @@
 ---
 title: Mickey Tucker
 layout: page
-permalink: /mickeytucker.html
+permalink: /mickey-tucker.html
 ---
 
 ## Mickey Tucker

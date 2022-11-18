@@ -1,7 +1,7 @@
 ---
 title: Spiritual Collage
 layout: page
-permalink: /spiritualcollage.html
+permalink: /spiritual-collage.html
 ---
 
 ## Spiritual Collage 
