@@ -9,6 +9,7 @@ permalink: /mickey-tucker.html
 Michael "Mickey" B. Tucker is an American jazz pianist, organist and composer. He was born on April 28, 1941 in Durham, North Carolina.
 He began piano lessons at age six and by age thirteen, was an accompanist at the Mt. Olive Baptist Church in Durham. At age fifteen, after completing only two years at Hillside High School in Durham, he was recommended for and awarded an early admission scholarship to Morehouse College in Atlanta. 
 {% include feature/image.html objectid="img001" width="5" %}
+{% include feature/image.html objectid="img002" width="5" %}
 
 In the 1960s, Tucker toured and performed with Little Anthony and the Imperials and Damita Jo. By 1969 he had entered the jazz world and recorded with acclaimed jazz artists such as James Moody, Frank Foster,
 Eric Kloss, Louis Hayes, and served as the music director for Art Blakely and the Jazz Messengers. In 1975, he won Downbeat's magazine's Critics Poll as the "artist most deserving wider recognition." 
