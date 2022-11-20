@@ -6,7 +6,9 @@ permalink: /the-story.html
 
 ## Spiritual Collage 
 
-{% include feature/video.html objectid="vid001" width="25" %}"
+{% include feature/video.html objectid="https://youtu.be/qg2WFBcgHWs" %}
+
+{% include feature/video.html objectid="vid001" width="50" %}
 
 Mickey Tucker donated his collection to the AAAMC in 2021. His collection consists of photographs, correspondence, travel documents, audio visual recordings, music manuscripts, and scores. Among the donated material was the score for Spiritual Collage: A Suite in Three Movements for Saxophone Quartet and Orchestra. It was unbeknownst to the archivists the significance of the work upon its unboxing. AAAMC director, Dr. Tyron Cooper, spoke to Tucker and realized that Spiritual Collage was what he considered his “magnum opus.” Tucker had recorded the first movement, “Portrait of a Peaceful Scene” as a solo piano work for his 1978 album Sweet Lotus Lips. He also made a home recording of the second movement “Acquaintance” as a solo piano work. However, it had never been performed in its entirety. Not once. 
 
