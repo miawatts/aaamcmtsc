@@ -7,7 +7,8 @@ permalink: /making-of.html
 ## The Making of Spiritual Collage 
 
 This collaborative effort with the AAAMC and the BSO was one of the most ambitious projects the AAAMC has faced. There were many moving parts in helping Tucker realize his dream and it was an all-hands-on deck event. The AAAMC staff and Graduate Assistants were set to the task of communicating with the guest artists, planning their itineraries with rehearsal schedules, and generating social media to promote the event. We were also responsible for composing the biographies and program notes to be written in the performance programs.
-{% include feature/image.html objectid="img016" width="25" %}
+{% include feature/image.html objectid="img016" width="25" %} 
+
 {% include feature/image.html objectid="img017" width="25" %}
 
 Tucker’s piece calls for a jazz combo and a saxophone quartet as the middle section of the second movement is an improvisatory jam session. Dr. Cooper began contacting well known jazz greats from around the country to come and participate in this world premiere. Several of them had known Mickey for years and were thrilled to be a part of the project.  
